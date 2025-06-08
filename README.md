@@ -1,16 +1,49 @@
-# authentication
 
-A new Flutter project.
+![Uploading file_0000000044b461f79890dafa93e77e2b.png…]()
 
-## Getting Started
+# 🔐 Flutter Authentication Flow UI
 
-This project is a starting point for a Flutter application.
+A modern, beautifully designed Flutter **Authentication Flow** featuring **Sign Up**, **Log In**, and **Reset Password** screens with custom animated page transitions and immersive background visuals.
 
-A few resources to get you started if this is your first Flutter project:
+> Designed and developed by [Shabeer Shah](https://github.com/ShabeerShah72)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎨 UI Highlights
+
+- ✨ Gradient-blended **background art** with vibrant colors
+- 📱 Responsive design that scales across devices
+- 🔄 **Smooth transitions** between screens using custom animations
+- 🧩 Reusable and modular `TextField` widgets
+- 🎯 Easy-to-integrate into any Firebase or custom backend logic
+
+---
+
+## 📸 Screenshots
+
+| Sign Up Screen        | Log In Screen         | Reset Password        |
+|-----------------------|-----------------------|------------------------|
+| ![SignUp](screenshots/signup_screen.png) | ![Login](screenshots/login_screen.png) | ![Reset](screenshots/reset_screen.png) |
+
+---
+
+## 🧱 Folder Structure
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (>= 3.0)
+- Dart
+- Code editor (e.g., VS Code)
+
+### Installation
+
+```bash
+git clone https://github.com/ShabeerShah72/flutter-auth-ui.git
+cd flutter-auth-ui
+flutter pub get
+flutter run
