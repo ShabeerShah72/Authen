@@ -1,6 +1,5 @@
 
-Uploading "Authentication.png"
-
+![Authentication](https://github.com/user-attachments/assets/d2cc58da-894f-4c3d-b5f7-c142467ab390)
 
 
 # 🔐 Flutter Authentication Flow UI
