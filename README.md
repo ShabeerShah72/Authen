@@ -2,6 +2,7 @@
 ![Uploading Authentication.png…]()
 
 
+
 # 🔐 Flutter Authentication Flow UI
 
 A modern, beautifully designed Flutter **Authentication Flow** featuring **Sign Up**, **Log In**, and **Reset Password** screens with custom animated page transitions and immersive background visuals.
@@ -19,12 +20,6 @@ A modern, beautifully designed Flutter **Authentication Flow** featuring **Sign 
 - 🎯 Easy-to-integrate into any Firebase or custom backend logic
 
 ---
-
-## 📸 Screenshots
-
-| Sign Up Screen        | Log In Screen         | Reset Password        |
-|-----------------------|-----------------------|------------------------|
-| ![SignUp](screenshots/signup_screen.png) | ![Login](screenshots/login_screen.png) | ![Reset](screenshots/reset_screen.png) |
 
 ---
 
