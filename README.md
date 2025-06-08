@@ -1,5 +1,5 @@
 
-![Uploading Authentication.png…]()
+Uploading "Authentication.png"
 
 
 
